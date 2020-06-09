@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[20],{"v+n4":function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),r=t("WHYC"),c=function(){return o.a.createElement("div",null,o.a.createElement(r["c"],{to:"/explore/journal"}))};n["default"]=c}}]);
